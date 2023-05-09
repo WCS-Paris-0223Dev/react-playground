@@ -1,3 +1,4 @@
-.red-text {
-    color: red;
+.list {
+    display: flex;
+    background-color: red;
 }
